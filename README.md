@@ -2,4 +2,4 @@
 
 <h2>develop</h2>
 
-## Chiaki-Suzuki
+## 鈴木智暁
